@@ -1,4 +1,3 @@
-add README.md
 # **Introduction**
 This project aims to detect fraudulent transactions related to money laundering in the banking
 sector. 
