@@ -7,7 +7,7 @@ The collection of data for this project adhered to AI and Data Science ethical c
 - Label: This is an indicator that flags transactions as money laundering.
 - USD amount: The total amount of money being transferred to the beneficiary.
 - Transaction type: Various types of sources/actions used to transact money.
-- 
+
 ## **The Dataset**
 The dataset shows an imbalance with the target variable "label," where 21% of transactions are considered fraud, and 79% are not flagged as fraud. The dataset is considered unbalanced when there is a significant variance in the distribution of labels in terms of count.
 
